@@ -1,4 +1,5 @@
 # Speech Emotion Recognition (SER) Using 1D CNN
+
 An end-to-end Machine Learning pipeline that classifies human emotions from raw audio waveforms using deep learning. This project extracts acoustic features from vocal signals and processes them through a custom Convolutional Neural Network (CNN) to achieve high-accuracy emotion classification.
 
 ## 🚀 Project Overview & Pipeline
